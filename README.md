@@ -3,3 +3,4 @@
 - Name: Pasan S. Kalansooriya
 - Index: 190290U
 - Colab Notebook: https://github.com/pasan-SK/Sem7-Machine-Learning-Lab1/blob/main/190290_Lab1_Feature_engineering.ipynb
+- Project report: https://github.com/pasan-SK/Sem7-Machine-Learning-Lab1/blob/main/190290U_report.pdf 
